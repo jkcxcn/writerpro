@@ -1,0 +1,20 @@
+{
+  "UrlCount":"3",
+  
+  "SoftVersion": "1.0.1",
+  "SoftUpdateLog": "1.初始测试版本",
+  "SoftUrl1": "https://gitee.com/jkcxcn/writer/raw/master/GUIDCreate.zip",
+  "SoftUrl2": "https://cnb.cool/jkcxcn/writerpro/-/releases/download/v1.0.0/GUIDCreate.zip",
+  "SoftUrl3": "https://github.com/jkcxcn/writerpro/releases/download/1.0.0/GUIDCreate.zip",
+  "SoftMinVersion": "1.0.0",
+
+  "FirmVersion":"1.1",
+  "FirmUpdateLog":"1.优化",
+  "FirmUrl1":"https://gitee.com/jkcxcn/writer/raw/master/JKWriter%20FW%201.0.wrf",
+    "FirmUrl2":"https://gitee.com/jkcxcn/writer/raw/master/JKWriter%20FW%201.0.wrf",
+    "FirmUrl3":"https://gitee.com/jkcxcn/writer/raw/master/JKWriter%20FW%201.0.wrf",
+    "FirmMinVersion":"1.0",
+
+    "Black":"",
+    "White":""
+}
